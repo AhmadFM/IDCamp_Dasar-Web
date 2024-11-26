@@ -6,6 +6,7 @@ body{
 
 main {
     padding: 20px;
+    overflow: auto;
 }
 
 h2, h3{
@@ -81,8 +82,4 @@ nav li{
 aside{
     float: right;
     width: 25%;
-}
-
-main{
-    overflow: auto;
 }
