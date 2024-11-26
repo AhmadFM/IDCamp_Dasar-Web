@@ -82,3 +82,7 @@ aside{
     float: right;
     width: 25%;
 }
+
+main{
+    overflow: auto;
+}
