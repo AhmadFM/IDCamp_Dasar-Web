@@ -72,3 +72,11 @@ nav li{
     list-style-type: none;
     margin-right: 20px;
 }
+
+.content{
+    float: left;
+}
+
+aside{
+    float: right;
+}
