@@ -73,10 +73,7 @@ nav li{
     margin-right: 20px;
 }
 
-.content{
+#content{
     float: left;
-}
-
-aside{
-    float: right;
+    width: 75%;
 }
