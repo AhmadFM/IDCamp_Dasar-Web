@@ -70,6 +70,8 @@ nav a:hover{
 nav {
     background-color: #00a2c6;
     padding: 5px;
+    position: sticky;
+    top: 0;
  }
 
 nav li{
@@ -87,6 +89,10 @@ aside{
     float: right;
     width: 25%;
     padding-left: 20px;
+}
+
+header{
+    display: inline;
 }
 
 @media screen and (max-width: 1000px) {
