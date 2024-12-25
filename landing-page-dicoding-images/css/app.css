@@ -72,29 +72,29 @@ main{
   align-items: center;
 }
 
-main.content{
+main .content{
   flex: 1;
 
   display: flex;
   align-items: center;
 }
 
-main.content.content-description{
+main .content .content-description{
   flex: 1 1;
 }
 
-main.content.content-description.title{
+main .content .content-description .title{
   margin-block: 1rem;
 
   font-size: 3.5rem;
 }
 
-main.content.content-description p{
+main .content .content-description p{
   font-size: 1.2rem;
   line-height: 1.7rem;
 }
 
-main.content.content-description button{
+main .content .content-description button{
   padding: 0.8rem 2.5rem;
   border: 3px solid transparent;
   border-radius: 999px;
@@ -112,7 +112,7 @@ main.content.content-description button{
   transition: all 0.15s ease-in;
 }
 
-main.content.content-description button:hover{
+main .content .content-description button:hover{
   border: 3px solid #2d3e50;
   background-color: transparent;
 
