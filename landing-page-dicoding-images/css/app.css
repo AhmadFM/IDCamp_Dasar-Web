@@ -89,12 +89,12 @@ main.content.content-description.title{
   font-size: 3.5rem;
 }
 
-main.content.content-description.p{
+main.content.content-description p{
   font-size: 1.2rem;
   line-height: 1.7rem;
 }
 
-main.content.content-description.button{
+main.content.content-description button{
   padding: 0.8rem 2.5rem;
   border: 3px solid transparent;
   border-radius: 999px;
@@ -194,7 +194,7 @@ main aside .social-media li a:hover {
   main.content.content-description.title{
     font-size: 3rem;
   }
-  
+
   main.content.content-description p{
     font-size: 1rem;
   }
