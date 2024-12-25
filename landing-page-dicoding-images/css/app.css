@@ -130,3 +130,9 @@ main .content .content-image img {
   min-width: 250px;
   margin: auto;
 }
+
+main aside {
+  position: fixed;
+  inset-block: 0;
+  inset-inline-end: 0;
+}
